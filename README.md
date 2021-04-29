@@ -1,5 +1,5 @@
 # dino_game
 
-Chrome's dino game made with Flutter.
+チュートリアルを見ながらFlutterで作ったゲーム
 
 https://agitated-ride-e50366.netlify.app
